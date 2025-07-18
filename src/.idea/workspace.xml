@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5ae3801-0660-4269-8a11-7cea01cb3537" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_class_components/blocks_constructor/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_class_components/blocks_constructor/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_class_components/blocks_constructor/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_class_components/blocks_constructor/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_class_components/methods/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acces_specifier/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acces_specifier/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/acces_specifier/_specifier_/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/_class_components/methods/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/_class_components/methods/Demo3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zVDTjBeWD7fFFocqgB3FRBQadM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/SUYAS/Documents/BACK_END/Core_java/src",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5ae3801-0660-4269-8a11-7cea01cb3537" name="Changes" comment="" />
+      <created>1751807358412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751807358412</updated>
+      <workItem from="1751807360043" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
