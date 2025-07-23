@@ -1,6 +1,9 @@
+package _practice;
+
 import java.util.Scanner;
 
-public class CheckPrimeUser {
+public class CheckPrimeUser
+{
     public static void main(String[] args) {
         checkPrime();
     }
